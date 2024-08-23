@@ -1,0 +1,11 @@
+/*  css significa cascata de estilos */
+/* Quando eu quero criar uma classe, eu coloco . no início */
+
+/* criamos a classe css "borda-produto" */
+.borda-produto{
+    /* border-style define o estilo de borda para utilizar */
+    border-style: solid;
+    /* boder-width define a largura da borda */
+    border-width: 0.3rem;
+
+}
